@@ -1,0 +1,30 @@
+repo_name: alien1403/Tema-Laborator-1-ASC
+report_id: 87fdf7cc871f75581f2596903bc8eca0
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:53:37+00:00'
+requested_by: alien1403
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/alien1403/Tema-Laborator-1-ASC
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/alien1403/Tema-Laborator-1-ASC
+  detection_source: Repo Metadata
